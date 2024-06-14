@@ -1,1 +1,3 @@
-my color picker app
+It's a color picker react application
+
+site deployed here: https://colorpicker3.netlify.app/
