@@ -1,12 +1,9 @@
 {
-  "homepage": "https://danixde.github.io/ColorPicker/",
   "name": "react-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run clean && npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "clean":"rimraf dist",
     "build": "vite build",
