@@ -57,4 +57,5 @@ input[type="color"]{
     margin-left:5px;
     padding:3px 8px;
     border-radius:5px;
+    cursor:pointer;
 }
